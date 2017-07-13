@@ -1,0 +1,4 @@
+fist open terminal and type ssh-keygen
+it will ask somting you will type enter enter enter
+next it will disply one key next you will type one command like cat .pub file 
+and that copy that code and goto you git account and open your reqired file next go to setings pest that code 
