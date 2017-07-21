@@ -4,7 +4,7 @@
 #echo Hey that\'s a large number.
 #if (( $1 % 2 == 0 ))
 #then
-echo And is also an even number.
+echo "And is also an even number"
 #fi
 #fi
 ~   
